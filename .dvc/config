@@ -1,0 +1,5 @@
+[core]
+    remote = storage
+    autostage = true
+['remote "storage"']
+    url = gdrive://1tq-nvYwaCnOT1oX58MB9Bd4hU8jD_acI
